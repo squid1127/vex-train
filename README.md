@@ -7,3 +7,5 @@ The goal here is to create code that will sync multiple brains together to allow
 Right now code is setup so that we have one host and two clients. These robots are setup to sync their drivetrain.
 
 All robots are configured with four wheel drive. Left = 1 & 11, Right = 2 & 12
+
+More Clients will be added later to account for more bots, and connections are going to be wired
